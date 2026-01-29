@@ -7,7 +7,7 @@ Ensuite, afficher dans la console: "Bonjour [prenom] [nom], vous êtes né le [d
 
 Exemple:
 
-Bonjour Quentin Geerts, vous êtes le 1996-04-03
+Bonjour Quentin Geerts, vous êtes né le 1996-04-03
 
 ## Exercice 02 - Version DOM
 
