@@ -22,3 +22,8 @@ Le programme devra déterminer si l'année est une année bissextile ou non.
 Pour rappel, une année est une année bissextile si elle est divisible par 4, mais pas par 100. Ou si elle est divisible par 400.
 
 L'affichage doit se faire sur la page.
+
+## Exercice 04 - Table de multiplication
+
+Créer un programme qui permet à l'utilisateur d'encoder la table de multiplication qu'il souhait.
+Le programme affiche ensuite toute la table de multiplication (20 calculs).
