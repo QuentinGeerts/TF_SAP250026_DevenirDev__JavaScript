@@ -1,3 +1,9 @@
+// Commentaire simple
+/*
+    Commentaire sur 
+    Plusieurs lignes
+*/
+
 // window.addEventListener("click", () => {
 //     console.log("T'as cliqué !");
 // });
