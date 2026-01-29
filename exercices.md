@@ -8,3 +8,9 @@ Ensuite, afficher dans la console: "Bonjour [prenom] [nom], vous êtes né le [d
 Exemple:
 
 Bonjour Quentin Geerts, vous êtes le 1996-04-03
+
+## Exercice 02 - Version DOM
+
+Reprenez l'exercice précédent et utiliser le DOM pour récupérer les données et les afficher.
+Vous devez avoir 3 champs (input:text) et un bouton (button).
+Quand vous cliquez sur le bouton, vous affichez le texte avec les 3 données rentrées  sur la page.
