@@ -25,5 +25,5 @@ L'affichage doit se faire sur la page.
 
 ## Exercice 04 - Table de multiplication
 
-Créer un programme qui permet à l'utilisateur d'encoder la table de multiplication qu'il souhait.
+Créer un programme qui permet à l'utilisateur d'encoder la table de multiplication qu'il souhaite.
 Le programme affiche ensuite toute la table de multiplication (20 calculs).
