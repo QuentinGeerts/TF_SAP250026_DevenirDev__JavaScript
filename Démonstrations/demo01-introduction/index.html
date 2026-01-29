@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- ✅ -->
+    <style>
+        /* CSS */
+        body {
+            background-color: azure;
+        }
+    </style>
+
+    <!-- 💘 -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- ✅ -->
+    <script>
+        // Javascript
+        window.addEventListener("DOMContentLoaded", () => {
+            console.log("Hello depuis la balise script");
+        });
+    </script>
+
+    <!-- 💘 -->
+    <script src="./script.js" defer></script>
+</head>
+<body>
+    <!-- 💩 -->
+    <h1 style="color: chartreuse;" onclick="console.log('Hello')">
+        Hello tout le monde !
+    </h1>
+    
+    <button id="btn1" class="btn">Mon beau bouton</button>
+
+    <!-- 
+        Pour ouvrir la console: 
+        - Clic droit > Inspecter
+        - F12
+        - CTRL + SHIFT + J
+    -->
+    
+</body>
+</html>
