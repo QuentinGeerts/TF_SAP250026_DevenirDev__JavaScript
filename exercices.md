@@ -49,3 +49,7 @@ Proposer 4 boutons qui permettent de convertir l'unité entré dans une unité p
 Afficher le résultat sur la page.
 
 ⚠️ Pour chaque bouton, vous créez une méthode de conversion qui prend en paramètre l'unité récupérée.
+
+## Exercice 07 - Écran de veille
+
+Créer un programme qui affiche la date et l'heure centré au milieu de l'écran avec une actualisation de l'heure toutes les secondes.
