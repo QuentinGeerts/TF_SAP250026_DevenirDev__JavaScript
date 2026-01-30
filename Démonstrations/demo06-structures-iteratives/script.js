@@ -32,7 +32,7 @@
 
 */
 
-// 4.  Structure "foreach" sur les tableaux
+// 4.  Méthode "forEach" sur les tableaux
 
 const fruits = [ "Clémentine", "Pomme", "Poire", "Banane", "Cerise", "Ananas" ];
 
