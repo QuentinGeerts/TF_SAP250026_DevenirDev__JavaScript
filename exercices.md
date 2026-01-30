@@ -36,3 +36,16 @@ Stocker les valeurs dans un tableau, ensuite calculer la moyenne des valeurs.
 Finalement, afficher le tableau sur la page avec la moyenne en-dessous.
 
 BONUS: Format demandé: "[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ] - Moyenne: 5"
+
+## Exercice 06 - Convertisseur d'unités
+
+Créer un programme qui permet à l'utilisateur d'encoder une donnée dans un champ texte.
+Proposer 4 boutons qui permettent de convertir l'unité entré dans une unité proposé:
+- Celsius → Fahrenheit ((0 °C × 9/5) + 32)
+- Fahrenheit → Celsius ((0 °F − 32) × 5/9)
+- Kilomètres → Miles (km * 0,621371)
+- Miles → Kilomètres (miles * 1,60934)
+
+Afficher le résultat sur la page.
+
+⚠️ Pour chaque bouton, vous créez une méthode de conversion qui prend en paramètre l'unité récupérée.
