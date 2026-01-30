@@ -35,4 +35,4 @@ Stocker les valeurs dans un tableau, ensuite calculer la moyenne des valeurs.
 
 Finalement, afficher le tableau sur la page avec la moyenne en-dessous.
 
-BONUS: Foramt demandé: "[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ] - Moyenne: 5"
+BONUS: Format demandé: "[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ] - Moyenne: 5"
