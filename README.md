@@ -1161,4 +1161,4 @@ Formateur .NET & JavaScript
 
 ---
 
-*Dernière mise à jour : Janvier 2025*
+*Dernière mise à jour : Janvier 2026*
