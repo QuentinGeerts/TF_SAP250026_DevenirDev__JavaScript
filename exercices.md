@@ -27,3 +27,12 @@ L'affichage doit se faire sur la page.
 
 Créer un programme qui permet à l'utilisateur d'encoder la table de multiplication qu'il souhaite.
 Le programme affiche ensuite toute la table de multiplication (20 calculs).
+
+## Exercice 05 - 10 valeurs
+
+Créer un programme qui à l'utilisateur d'entrer dans un seul champ texte 10 valeurs séparées par une virgule.
+Stocker les valeurs dans un tableau, ensuite calculer la moyenne des valeurs.
+
+Finalement, afficher le tableau sur la page avec la moyenne en-dessous.
+
+BONUS: Foramt demandé: "[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ] - Moyenne: 5"
