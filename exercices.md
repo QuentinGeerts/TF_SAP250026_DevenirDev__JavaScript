@@ -53,3 +53,4 @@ Afficher le résultat sur la page.
 ## Exercice 07 - Écran de veille
 
 Créer un programme qui affiche la date et l'heure centré au milieu de l'écran avec une actualisation de l'heure toutes les secondes.
+
